@@ -1,0 +1,77 @@
+Personal Journal Application
+1. Add Entry
+2. View All Entries
+3. Search Entries
+4. Delete All Entries
+5. Exit
+Enter your choice: 1
+Enter your journal entry: Today I learned file handling in Python.
+Entry added successfully.
+
+Personal Journal Application
+1. Add Entry
+2. View All Entries
+3. Search Entries
+4. Delete All Entries
+5. Exit
+Enter your choice: 2
+2026-07-02 10:15:00 - Today I learned file handling in Python.
+2026-07-02 10:20:45 - I practiced exception handling.
+
+Personal Journal Application
+1. Add Entry
+2. View All Entries
+3. Search Entries
+4. Delete All Entries
+5. Exit
+Enter your choice: 2
+No journal file found. Please add an entry first.
+
+Personal Journal Application
+1. Add Entry
+2. View All Entries
+3. Search Entries
+4. Delete All Entries
+5. Exit
+Enter your choice: 3
+Enter a keyword to search for: Python
+2026-07-02 10:15:00 - Today I learned file handling in Python.
+
+Personal Journal Application
+1. Add Entry
+2. View All Entries
+3. Search Entries
+4. Delete All Entries
+5. Exit
+Enter your choice: 3
+Enter a keyword to search for: travel
+No entries found containing the keyword: travel
+
+Personal Journal Application
+1. Add Entry
+2. View All Entries
+3. Search Entries
+4. Delete All Entries
+5. Exit
+Enter your choice: 4
+Are you sure you want to delete all entries? (yes/no): yes
+All entries deleted successfully.
+
+Personal Journal Application
+1. Add Entry
+2. View All Entries
+3. Search Entries
+4. Delete All Entries
+5. Exit
+Enter your choice: 4
+Are you sure you want to delete all entries? (yes/no): no
+Deletion canceled.
+
+Personal Journal Application
+1. Add Entry
+2. View All Entries
+3. Search Entries
+4. Delete All Entries
+5. Exit
+Enter your choice: 5
+Exiting the application.
